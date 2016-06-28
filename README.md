@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 Once set up, check that the development server is running:  
 
-`python managet.py runserver`
+`python manage.py runserver`
