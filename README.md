@@ -14,18 +14,20 @@ For an environment with **Python 3.x** and **pip** already installed, do the fol
 
 For OSX / Linus
 ```
+git clone https://github.com/brandonat/finapp.git
 pip install vitrualenv
 virtual venv
 source venv/bin/activate
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 For Windows
 ```
+git clone https://github.com/brandonat/finapp.git
 pip install vitrualenv
 virtual venv
 venv\Scripts\activate
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Once set up, check that the development server is running:  
